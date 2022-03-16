@@ -8,7 +8,7 @@ Dashboard desenvolvido para responder as perguntas propostas no desafio e explor
 
 ## Dashboard
 Acessível online:
- - [Vigilância Genômica no Brasil](https://bit.ly/ITpS_Bragatte)
+ - [Metadados sobre vigilância genômica no Brasil](https://bit.ly/ITpS_Bragatte)
 
 
 ### Demonstração dos painéis interativos
