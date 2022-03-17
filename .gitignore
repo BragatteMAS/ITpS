@@ -1,6 +1,6 @@
-ITpS/**/*.pbi
+ITpS/**/*.pbix
 
-*.pbi
+*.pbix
 *.tsv
 *.csv
 
