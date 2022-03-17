@@ -1,5 +1,7 @@
 ITpS/**/*.pbix
 
+*ITpS_Bragatte.pbix
+
 *.pbix
 *.tsv
 *.csv
